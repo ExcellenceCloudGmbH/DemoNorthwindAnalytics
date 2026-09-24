@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local runtime state — never commit these.
+.env
+*.sqlite3
+migrations/0*.py
+media/
+.streamlit/
+
+.idea/
+.vscode/
+.DS_Store

@@ -1,0 +1,18 @@
+# The sidebar. Group names are yours; the leaf keys are model names in
+# lowercase, matching the Python class name, with `null` as the value.
+model_structure:
+  Funds:
+    fund: null
+    position: null
+  Reference:
+    currency: null
+  Valuations:
+    fundvaluation: null
+
+model_styling:
+  Funds:
+    name: "📈 Funds"
+  Reference:
+    name: "🗂 Reference"
+  Valuations:
+    name: "🧮 Valuations"
