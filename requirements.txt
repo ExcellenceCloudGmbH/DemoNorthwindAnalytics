@@ -1,5 +1,5 @@
 # The framework. Pin the version your installation runs.
-lex-app~=2.2
+lex-app==2.3.5
 
 # Used by the dashboards in _streamlit_structure.py and Fund.streamlit_main.
-pandas
+pandas==3.0.6
